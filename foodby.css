@@ -1,0 +1,49 @@
+.text{
+    color: white;
+}
+.text1{
+    color: white;
+}
+.transparent{
+    background-image: url("https://img.freepik.com/premium-photo/mexican-food-concept-tortillas-nachos-with-guacamole-salsa-chili-con-carne-top-view_266870-9477.jpg?w=360");
+    background-color: transparent;
+    background-size: cover;
+    color: white;
+    height: 70vh;
+}
+.text-aline{
+    margin-left: 180px;
+    padding: 15vh;
+
+}
+
+.food{
+    text-align: center;
+}
+.btn{
+    background-color:transparent;
+    border-color: white;
+    color: white;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.image{
+
+}
+
+.size{
+
+    height: 200px;
+    width: 200px;
+}
+.btn2{
+    color: white;
+    border: none;
+}
+.footer{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
